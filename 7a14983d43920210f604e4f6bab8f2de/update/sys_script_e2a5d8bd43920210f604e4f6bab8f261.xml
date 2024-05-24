@@ -30,7 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
 	// br2
-	// new5
+	// new6
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -39,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e2a5d8bd43920210f604e4f6bab8f261</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>br2</sys_name>
         <sys_overrides/>
         <sys_package display_value="DemoApp" source="sn_demoapp">7a14983d43920210f604e4f6bab8f2de</sys_package>
@@ -47,7 +47,7 @@
         <sys_scope display_value="DemoApp">7a14983d43920210f604e4f6bab8f2de</sys_scope>
         <sys_update_name>sys_script_e2a5d8bd43920210f604e4f6bab8f261</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-24 19:21:30</sys_updated_on>
+        <sys_updated_on>2024-05-24 19:24:03</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
