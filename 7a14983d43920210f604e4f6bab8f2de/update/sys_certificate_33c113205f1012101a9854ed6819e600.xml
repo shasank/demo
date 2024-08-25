@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<record_update>
+  <sys_certificate>
+    <active>true</active>
+    <expiration_notification>false</expiration_notification>
+    <expires>2025-08-01 13:46:18</expires>
+    <expires_in_days>365</expires_in_days>
+    <format>pem</format>
+    <issuer>CN=sf,OU=df,O=wd,L=wd,ST=ff,C=wf</issuer>
+    <key_store_password/>
+    <name>code_signing_key_33c113205f1012101a9854ed6819e600</name>
+    <notify_on_expire/>
+    <pem_certificate>-----BEGIN CERTIFICATE-----
+MIIDfTCCAmWgAwIBAgIUSKUcHNO8o3EK80tVRS5OSvGwDxEwDQYJKoZIhvcNAQEL
+BQAwTjELMAkGA1UEBhMCd2YxCzAJBgNVBAgMAmZmMQswCQYDVQQHDAJ3ZDELMAkG
+A1UECgwCd2QxCzAJBgNVBAsMAmRmMQswCQYDVQQDDAJzZjAeFw0yNDA4MDEwODE2
+MThaFw0yNTA4MDEwODE2MThaME4xCzAJBgNVBAYTAndmMQswCQYDVQQIDAJmZjEL
+MAkGA1UEBwwCd2QxCzAJBgNVBAoMAndkMQswCQYDVQQLDAJkZjELMAkGA1UEAwwC
+c2YwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC9IC47jOxh9q6lQxf0
+r/XS94bn/lB+cmIcPpgK8jLkXgAD5myxbmJUs2OC2j2q9BYWGwvtitK/sDgD9bfK
+2AQHT8qZ7vZv7eob/86NtpAASvVPvOfopfGu/TXnYEEDPcMnxzqlbGCCyA/388Vy
+o62bXVGLQLIpkF24WT0QZzdWm7uI+nwUMLKUbi9Vk4JACf19xxIXX8fZH19iBmVr
+d+wqem5khnfW4Tf3zV6t3ftog+npYlDYaImG++qQRyLSKEaTq2bNgoFkydwVxK1s
+ug1npnx8Q0G/iX2V/B0BN8MHEOGA86d6Z+GbirzZXGTua8JovW2TqtnVAWL18pM4
+i5yHAgMBAAGjUzBRMB0GA1UdDgQWBBRVyctcifxKmXD4zgz2WjHmT1VnwzAfBgNV
+HSMEGDAWgBRVyctcifxKmXD4zgz2WjHmT1VnwzAPBgNVHRMBAf8EBTADAQH/MA0G
+CSqGSIb3DQEBCwUAA4IBAQAbkOTFUGhZBb4mEIps4b27HLyxrmJwJJg0ecTepbDY
+Yja72GBow0K5BPBkyi4SRAFx7VWQoEaBl1/cniLme0vPN89TvdP1k7d8kyoDkj8Y
+t1EFfNE4m6L3FUnb+M8x+be2wFqpQ02Z9BCiG1rosSctCkBcUmNX4waRjqgiFBCT
+n5yaSqZSgxW7GJ+eWu1gIfleKZmItRJlS9HcwQJCoi+HGp9YlMcMcBnyoQ2jftOJ
+ePhRlvlhepbEzmioqoIYUevVj9WRT/2iXpQLcw67SIQJva1ur2h1zCSnUYH5uba4
+SpT/qN7QR+dplooOLVLLyFX6nSMoJ5aeWSlbbA4BpFOm
+-----END CERTIFICATE-----
+</pem_certificate>
+    <short_description>sf</short_description>
+    <subject>CN=sf,OU=df,O=wd,L=wd,ST=ff,C=wf</subject>
+    <type>trust_store</type>
+    <valid_from>2024-08-01 13:46:18</valid_from>
+    <warn_in_days_to_expire>20</warn_in_days_to_expire>
+    <sys_class_name>sys_certificate</sys_class_name>
+    <sys_id>33c113205f1012101a9854ed6819e600</sys_id>
+    <sys_name/>
+    <sys_package>global</sys_package>
+    <sys_policy/>
+    <sys_scope>global</sys_scope>
+    <sys_update_name>sys_certificate_33c113205f1012101a9854ed6819e600</sys_update_name>
+    <sys_created_by>admin</sys_created_by>
+    <sys_created_on>2024-08-25 20:58:10</sys_created_on>
+    <sys_mod_count>0</sys_mod_count>
+    <sys_updated_by>admin</sys_updated_by>
+    <sys_updated_on>2024-08-25 20:58:10</sys_updated_on>
+  </sys_certificate>
+</record_update>
